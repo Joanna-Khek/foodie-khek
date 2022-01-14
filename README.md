@@ -8,7 +8,8 @@ The list of food choices were scrapped from [**DanialFoodDiary**](https://daniel
 5 places are randomly selected to avoid choice paralysis. The user is free to re-select and generate new set of choices if they are not satisfied with the suggestions.
 
 ## Demo
-![foodie_khek](https://user-images.githubusercontent.com/53141849/145506508-8cb49207-3e11-49a5-8374-9a585dc50e2d.gif)
+![foodie_khek]![foodiekhek_demo](https://user-images.githubusercontent.com/53141849/149494425-5a2df31e-78bf-4837-adc9-4d105d16bccf.gif)
+
 
 ## Future Work
 I plan to incorporate other food blogs to expand the current database
