@@ -12,3 +12,4 @@ The list of food choices were scrapped from [**DanialFoodDiary**](https://daniel
 
 ## Future Work
 I plan to incorporate other food blogs to expand the current database
+Update: 14 January 2022. Incorporated [**Eatbook**](https://eatbook.sg/)
